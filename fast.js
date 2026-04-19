@@ -1,0 +1,13 @@
+var date = 38;
+var year = 2006;
+var money = 500;
+var age = 21;
+var name = "Sreshtha + Diptesh";
+var pass = true;
+var  fail = false;
+console.log(fail);
+console.log( typeof pass);
+console.log(typeof money);
+console.log(name);
+console.log(pass);
+console.log(typeof age);
