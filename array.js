@@ -1,3 +1,5 @@
 const numbers = [3,5,7,4,3,2,98,5,7,4,3,2,98,5,7,4,3,2,98,];
 console.log(numbers.length);
-console.log(numbers[0][19][18]);
+console.log(numbers[0]);
+console.log(numbers.length);
+console.log(numbers);
